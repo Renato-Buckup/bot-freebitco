@@ -1,0 +1,123 @@
+[
+  {
+    "name": "login_auth",
+    "value": "1a9d628c5a084458e0e6c5f57d6b313c79962f917d8b58b265bc76a396e9eade",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": 1616017404.250378,
+    "size": 74,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "have_account",
+    "value": "1",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": 1928785403,
+    "size": 13,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "password",
+    "value": "960545afb0fd1b1d0fb48bff54ecb879b77b9a5237f3793fb4a204cf32cf2caf",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": 1928785403,
+    "size": 72,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "_gat_gtag_UA_44778688_1",
+    "value": "1",
+    "domain": ".freebitco.in",
+    "path": "/",
+    "expires": 1613425440,
+    "size": 24,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "btc_address",
+    "value": "1HeBVFzw3tHAJ6us3zWMjuLysUneDicjCx",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": 1928785403,
+    "size": 45,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1559480382.1613425380",
+    "domain": ".freebitco.in",
+    "path": "/",
+    "expires": 1613511780,
+    "size": 31,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "__cfduid",
+    "value": "d9e8f3cd30b905d68a4a3aad75831404e1613425377",
+    "domain": ".freebitco.in",
+    "path": "/",
+    "expires": 1616017377.361686,
+    "size": 51,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1841010654.1613425380",
+    "domain": ".freebitco.in",
+    "path": "/",
+    "expires": 1676497380,
+    "size": 30,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "hide_push_msg",
+    "value": "1",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": 1613598185,
+    "size": 14,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameParty": false
+  },
+  {
+    "name": "csrf_token",
+    "value": "C6sMBdJ5bqj3",
+    "domain": "freebitco.in",
+    "path": "/",
+    "expires": -1,
+    "size": 22,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false
+  }
+]
